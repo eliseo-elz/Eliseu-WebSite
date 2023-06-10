@@ -1,0 +1,15 @@
+@media (min-width:370px){
+    body{
+        margin: 0px auto;
+        width: 375px;
+        background-color: #000000;
+    }
+    .container{
+        margin: 5px auto;
+        height: 60px;
+        width: 365px;
+        background-color: #000000;
+        border-radius: 9px;
+        
+    }
+}
